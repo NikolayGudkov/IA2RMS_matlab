@@ -1,8 +1,6 @@
 # Overview
 
-These MATLAB codes implement the Independent Doubly Adaptive Rejection Metropolis Sampling (IA2RMS) withing Gibbs Sampling algorithm.
-
-The original algorithm is described in [L. Martino, J. Read, D. Luengo, "Independent Doubly Adaptive Rejection Metropolis Sampling within Gibbs Sampling",
+These MATLAB codes implement the Independent Doubly Adaptive Rejection Metropolis Sampling (IA2RMS) withing Gibbs Sampling algorithm. The original algorithm is described in [L. Martino, J. Read, D. Luengo, "Independent Doubly Adaptive Rejection Metropolis Sampling within Gibbs Sampling",
 IEEE Transactions on Signal Processing, Volume 63, Issue 12, Pages: 3123-3138, 2015.](http://www.lucamartino.altervista.org/TSP_IA2RMS.pdf)
 
 This version of the codes (v0.5) aims to improve the computational performance of the version (v0.4) from (https://sourceforge.net/projects/a2rms/files/IA2RMS/)
