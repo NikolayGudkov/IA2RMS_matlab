@@ -32,7 +32,7 @@ The code was tested on two examples from [L. Martino, J. Read, D. Luengo (2015)]
 # Usage 
 
 ## Description
-Function **IA2RMS** simulates *N* points from the target continuous distribution.
+Function **IA2RMS** simulates *M* points from the target continuous distribution *f*.
 ### Input:
 * __*f*__ - continuous probability distribution function known up to a constant of proportionality.
 * __*S*__ - initial set of support points. 
